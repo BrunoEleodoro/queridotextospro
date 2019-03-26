@@ -3,17 +3,172 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "3559299852604706423",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-03-25T17:43:00-07:00",
+   "updated": "2019-03-25T17:43:31-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYxMDExMjM3Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/mar-que-eu-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3559299852604706423",
+   "title": "Mar Que Eu Amor",
+   "content": "ASUYASGDUYSAGDYUA\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nASDUHASYUDHAUYSDIAS[\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nSAUDHAHSDIAS\u003cbr /\u003e\n\u003cbr /\u003e\nDOASHDIUASD\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paraiso tumblr\" class=\"irc_mi\" data-iml=\"1553560916634\" height=\"353\" src=\"https://i.pinimg.com/originals/04/36/45/043645fcdf5369d417be933a968964a4.jpg\" style=\"margin-top: 0px;\" width=\"235\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/04/36/45/043645fcdf5369d417be933a968964a4.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3559299852604706423/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1910128682125653086",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-03-25T17:39:00-07:00",
+   "updated": "2019-03-25T17:39:42-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwNzgyMTk3Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/teste_25.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1910128682125653086",
+   "title": "Teste",
+   "content": "AIHUSAHIASHIUAHSIS\u003cbr /\u003e\nSUDHUIAHSDIUADHIUADHIUDHIDHIS\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nASDUAHSDJASOIADSJOSD\u003cbr /\u003e\n\u003cbr /\u003e\nDSIUASDJDOJSADJIOADA\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paraiso tumblr\" class=\"irc_mi\" data-iml=\"1553560705600\" height=\"353\" src=\"https://31.media.tumblr.com/63d6faf440df9e200da760203c3c544f/tumblr_n5ji4gs2ph1r4ueyro1_500.jpg\" style=\"margin-top: 0px;\" width=\"234\" /\u003e",
+   "images": [
+    {
+     "url": "https://31.media.tumblr.com/63d6faf440df9e200da760203c3c544f/tumblr_n5ji4gs2ph1r4ueyro1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1910128682125653086/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3457012643014518996",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-03-25T17:38:00-07:00",
+   "updated": "2019-03-25T17:38:54-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwNzM0OTQxCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/resultado-de-imagem-para-paraiso-tumblr.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3457012643014518996",
+   "title": "Paraiso",
+   "content": "AIUASDHIUAHSIAHDIUAHSD[SDASDIUASDD\u003cbr /\u003e\nD\u003cbr /\u003e\n\u003cbr /\u003e\nSADJAODJOASDOOSA\u003cbr /\u003e\n\u003cbr /\u003e\nDASDHIAUDHSIUADH\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paraiso tumblr\" class=\"irc_mi\" data-iml=\"1553560582238\" height=\"353\" src=\"https://i.pinimg.com/236x/e0/5a/37/e05a3798049eed9012137a0b83c4e8a7.jpg\" style=\"margin-top: 0px;\" width=\"178\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/236x/e0/5a/37/e05a3798049eed9012137a0b83c4e8a7.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3457012643014518996/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4577046650323292377",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-03-25T17:36:00-07:00",
+   "updated": "2019-03-25T17:36:04-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwNTY0MDQ3Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/acontecimentos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4577046650323292377",
+   "title": "Acontecimentos",
+   "content": "aDYGadjhsdjkhakdjshuadhiasdasdhs\u003cbr /\u003e\naDYGadjhsdjkhakdj\u003cbr /\u003e\n\u003cbr /\u003e\naDYGadjhsdjkhakdjahskduhaskhdskhsadkasd\u003cbr /\u003e\n\u003cbr /\u003e\naDHSIDHSHDIAHSJAHSD\u003cbr /\u003e\n\u003cbr /\u003e\nKADHJASD\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paraiso tumblr\" class=\"irc_mi\" data-iml=\"1553560456314\" height=\"353\" src=\"https://i.pinimg.com/originals/f4/61/cc/f461cc6a11cee382c5f06d4146e6911e.jpg\" style=\"margin-top: 0px;\" width=\"235\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/f4/61/cc/f461cc6a11cee382c5f06d4146e6911e.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4577046650323292377/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8582824304197567734",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-03-25T17:32:00-07:00",
+   "updated": "2019-03-25T17:32:53-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwMzczODc2Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/teste.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8582824304197567734",
+   "title": "Teste",
+   "content": "\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\naygusdhiuashdkashjdkashdiukahsdkashdkjashkjashdkjasdhkadkjaska teste\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nkahsbdgayjsdhjd[\u003cbr /\u003e\nasdgashdkjasdhkasdht\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paraiso tumblr\" class=\"irc_mi\" data-iml=\"1553560236473\" height=\"353\" src=\"https://i.pinimg.com/originals/d5/0d/b5/d50db562055ac29ef509d3fbb65d1d73.jpg\" style=\"margin-top: 0px;\" width=\"235\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/d5/0d/b5/d50db562055ac29ef509d3fbb65d1d73.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8582824304197567734/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "2714735725375692917",
    "blog": {
     "id": "4634552194872670494"
    },
    "published": "2019-03-20T18:14:00-07:00",
-   "updated": "2019-03-20T18:14:59-07:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTMwODk5MjUzCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "updated": "2019-03-25T17:33:22-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwNDAyMTU5Cm9mZnNldDogLTI1MjAwMDAwCg\"",
    "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/vida.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2714735725375692917",
    "title": "Vida ",
-   "content": "Eu conheço cada sentimento\u003cbr /\u003e\nCada toque seu\u003cbr /\u003e\nCada palavra que vc diz quando está triste\u003cbr /\u003e\nOu até quando está feliz\n\u003cbr /\u003e\nTe conheço faz um tempão\u003cbr /\u003e\nDesde pequenas\u003cbr /\u003e\nParceiras e irmãs\u003cbr /\u003e\nTemos nossos desentendimentos e nossas brigas\u003cbr /\u003e\nMas eu sei que nos amamos\u003cbr /\u003e\nBom pelo menos eu amo você\u003cbr /\u003e\nAmar é forte demais pra o que eu sinto agora\u003cbr /\u003e\nVocê é problema demais agora\u003cbr /\u003e\nComo dizer pro problema\u003cbr /\u003e\nQue ela é o problema que eu não quero resolver?\u003cbr /\u003e\n\nFicava me intrigando dizendo q queria me ter e quando eu me rendi ela fugiu\u003cbr /\u003e\nOk...poderia ser medo?óbvio,já que ela foi magoada mais vezes.\u003cbr /\u003e\nEu tô com medo? óbvio,ela é minha melhor amiga\u003cbr /\u003e\nE se eu magoar ela?e se ela me machucar?E se?\u003cbr /\u003e\n\nEla é como um dia chuvoso mas tem suas vantagens\u003cbr /\u003e\nEla tem mil defeitos mas continua perfeita\u003cbr /\u003e\nMas ela me machuca quando fala da pessoa que ela gosta e eu sei que essa pessoa não sou eu.\u003cbr /\u003e\n\u003cbr /\u003e\nLarissa\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Declarações \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mulher tumblr\" class=\"irc_mi\" data-iml=\"1553130864303\" height=\"379\" src=\"https://i.pinimg.com/originals/d8/dd/89/d8dd89e476a6a8135da62d2f4c3f16c4.jpg\" style=\"margin-top: 0px;\" width=\"252\" /\u003e ",
+   "content": "Eu conheço cada sentimento\u003cbr /\u003e\nCada toque seu\u003cbr /\u003e\nCada palavra que vc diz quando está triste\u003cbr /\u003e\nOu até quando está feliz\n\u003cbr /\u003e\nTe conheço faz um tempão\u003cbr /\u003e\nDesde pequenas\u003cbr /\u003e\nParceiras e irmãs\u003cbr /\u003e\nTemos nossos desentendimentos e nossas brigas\u003cbr /\u003e\nMas eu sei que nos amamos\u003cbr /\u003e\nBom pelo menos eu amo você\u003cbr /\u003e\nAmar é forte demais pra o que eu sinto agora\u003cbr /\u003e\nVocê é problema demais agora\u003cbr /\u003e\nComo dizer pro problema\u003cbr /\u003e\nQue ela é o problema que eu não quero resolver?\u003cbr /\u003e\nFicava me intrigando dizendo q queria me ter e quando eu me rendi ela fugiu\u003cbr /\u003e\nOk...poderia ser medo?óbvio,já que ela foi magoada mais vezes.\u003cbr /\u003e\nEu tô com medo? óbvio,ela é minha melhor amiga\u003cbr /\u003e\nE se eu magoar ela?e se ela me machucar?E se?\u003cbr /\u003e\nEla é como um dia chuvoso mas tem suas vantagens\u003cbr /\u003e\nEla tem mil defeitos mas continua perfeita\u003cbr /\u003e\nMas ela me machuca quando fala da pessoa que ela gosta e eu sei que essa pessoa não sou eu.\u003cbr /\u003e\n\u003cbr /\u003e\nLarissa\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mulher tumblr\" class=\"irc_mi\" data-iml=\"1553130864303\" height=\"379\" src=\"https://i.pinimg.com/originals/d8/dd/89/d8dd89e476a6a8135da62d2f4c3f16c4.jpg\" style=\"margin-top: 0px;\" width=\"252\" /\u003e ",
    "images": [
     {
      "url": "https://i.pinimg.com/originals/d8/dd/89/d8dd89e476a6a8135da62d2f4c3f16c4.jpg"
@@ -39,12 +194,12 @@
     "id": "4634552194872670494"
    },
    "published": "2019-03-20T17:46:00-07:00",
-   "updated": "2019-03-20T17:46:07-07:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTI5MTY3MDg2Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "updated": "2019-03-25T17:33:44-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTYwNDI0MDU5Cm9mZnNldDogLTI1MjAwMDAwCg\"",
    "url": "http://qwertyuiopqwedfg.blogspot.com/2019/03/sozinha-em-uma-multidao.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3477358078141032886",
    "title": "Sozinha em uma multidão",
-   "content": "Se engana quem pensa que o tempo minha vida foi maravilhosa. Nunca foi, \nnunca vai ser. A vida é assim mesmo, cheia de altos e baixos, problemas e\n suas soluções. Temos que ser fortes, a vida é feita de fases boas e \nruins, o importante é ser forte para passar as fases ruins e aproveitar \nmuito as fases boas. E os problemas? Seja mais forte que eles, ache \nsempre uma solução para tudo, pode parecer impossível, mas é sim eu \ntenho fé que é possível. Cada dor, cada marca e cada cicatriz de todas \nessas fases ruins, fazem de você quem você é, essas dores formam tua \nmaturidade e teu caráter.\u003cbr /\u003e\n\u003cbr /\u003e\nMaria Karolyne N. Marcolino\u003cbr /\u003e\n\u003cbr /\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-bAFpu93mfqI/VRxw6AmlF8I/AAAAAAAAMDg/lI0vOmLAIdo/s1600/pregacao-clamor-multidao.jpg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"\u003e\u003cimg alt=\"Resultado de imagem para multidão\" border=\"0\" class=\"irc_mi\" data-iml=\"1553129117379\" height=\"379\" src=\"https://1.bp.blogspot.com/-bAFpu93mfqI/VRxw6AmlF8I/AAAAAAAAMDg/lI0vOmLAIdo/s1600/pregacao-clamor-multidao.jpg\" style=\"margin-top: 0px;\" width=\"421\" /\u003e\u003c/a\u003e ",
+   "content": "Se engana quem pensa que o tempo minha vida foi maravilhosa. Nunca foi, \nnunca vai ser. A vida é assim mesmo, cheia de altos e baixos, problemas e\n suas soluções. Temos que ser fortes, a vida é feita de fases boas e \nruins, o importante é ser forte para passar as fases ruins e aproveitar \nmuito as fases boas. E os problemas? Seja mais forte que eles, ache \nsempre uma solução para tudo, pode parecer impossível, mas é sim eu \ntenho fé que é possível. Cada dor, cada marca e cada cicatriz de todas \nessas fases ruins, fazem de você quem você é, essas dores formam tua \nmaturidade e teu caráter.\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\nMaria Karolyne N. Marcolino\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-bAFpu93mfqI/VRxw6AmlF8I/AAAAAAAAMDg/lI0vOmLAIdo/s1600/pregacao-clamor-multidao.jpg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"\u003e\u003cimg alt=\"Resultado de imagem para multidão\" border=\"0\" class=\"irc_mi\" data-iml=\"1553129117379\" height=\"379\" src=\"https://1.bp.blogspot.com/-bAFpu93mfqI/VRxw6AmlF8I/AAAAAAAAMDg/lI0vOmLAIdo/s1600/pregacao-clamor-multidao.jpg\" style=\"margin-top: 0px;\" width=\"421\" /\u003e\u003c/a\u003e ",
    "images": [
     {
      "url": "https://1.bp.blogspot.com/-bAFpu93mfqI/VRxw6AmlF8I/AAAAAAAAMDg/lI0vOmLAIdo/s1600/pregacao-clamor-multidao.jpg"
@@ -64,5 +219,5 @@
    }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yMVQwMToxNDo1OS4yNTNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yNlQwMDo0MzozMS4yMzda\""
 }
