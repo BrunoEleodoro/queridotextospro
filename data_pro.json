@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "6944379435320344007",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-04-15T17:14:00-07:00",
+   "updated": "2019-04-15T17:14:53-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1MzczNjkzNTAxCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/04/quando-voce-partiu.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6944379435320344007",
+   "title": "Quando Você Partiu.",
+   "content": "Quando você partiu, eu fiquei com raiva de Deus. Afoguei-me em um mar de\n perguntas e parecia não ter forças para reagir. Como pode uma pessoa \ntão jovem ir embora assim tão cedo? Como algo tão cruel foi acontecer \ncom alguém que sempre fez tão bem a todos? Cadê o meu último abraço? \nPorque Ele permitiu esse fim? O que eu faço com esse vazio aqui dentro? \nConfesso que não imaginava ser capaz de passar por tudo aquilo. Quando \nvocê partiu, uma parte minha morreu contigo. Um pouco da minha alegria, \num pouco da minha infância, uma parte do futuro que sempre imaginei \ntendo você por perto. Quando você partiu, a minha risada mudou de som, o\n meu olhar perdeu a cor, a minha voz trocou de tom. Quando você partiu, \neu desejei ir também, eu pensei em desistir, achei que não fosse \nconseguir. Foi quando um dia sonhei contigo e acordei sentindo cheiro de\n flor. De repente, pensei no seu sorriso e em tudo que me ensinou. \nLembrei-me de todas nossas histórias, das nossas conversas e do quanto \nvocê foi importante enquanto esteve aqui. Imaginei todas as pessoas que \nexistiram nesse mundo antes de você, e as outras tantas que ainda estão \npor vir. Pensei também naqueles que vivem por aqui ainda hoje, e me dei \nconta de que a esmagadora maioria deles não teve a sorte que eu tive. \nSim, foi muita sorte mesmo. Porque de tantas vidas por aí, de tantos \ncaminhos, de tantas possibilidades, você foi existir aqui, pertinho de \nmim. Foi breve, foi intenso e infinito. Quando me dei conta disso, fiz \nas pazes com Deus, pedi perdão pela ingratidão, agradeci por ter me dado\n a chance de te conhecer e por ter permitido que um dos seus anjos \nvivesse por um tempo aqui comigo. Prometi me esforçar para não chorar \nmais. Que ia tentar lembrar-me de ti com o sorriso que tantas vezes me \nentregou de presente. Eu sei bem que a saudade será sempre uma visita \nconstante, mas também já entendi que essa separação é momentânea. E \nagora, quando o cheiro de flor me visita pela manhã, imagino logo ser a \nforma que encontrou de me desejar bom dia.\u003cbr /\u003e\n\u003cbr /\u003e\n#Ex\u003cbr /\u003e\n\u003cbr /\u003e\nAutor Desconhecido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"\" class=\"main_photo\" height=\"320\" src=\"https://66.media.tumblr.com/e83bf1af37121fe68f98add3f9ec8aca/tumblr_oq11h46Zlk1sn8peko1_500.png\" width=\"255\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/e83bf1af37121fe68f98add3f9ec8aca/tumblr_oq11h46Zlk1sn8peko1_500.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6944379435320344007/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "6596614381022754118",
    "blog": {
     "id": "4634552194872670494"
@@ -622,5 +653,5 @@
    }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xM1QwMjozNToxOS45OTla\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xNlQwMDoyMjowNC4wMTda\""
 }
