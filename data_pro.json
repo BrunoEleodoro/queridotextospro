@@ -3,6 +3,40 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "2895250329568043341",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-04-19T17:14:00-07:00",
+   "updated": "2019-04-19T17:15:05-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NzE5MzA1MDM0Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/04/vai-passar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2895250329568043341",
+   "title": "Vai Passar.",
+   "content": "Bruna Alves\u003cbr /\u003e\nHoje eu conversei com Deus e fiquei chorando enquanto eu desabafava, eu \ndisse coisas tristes e acontecimentos ruins. Eu disse pra Deus o porque \ndas coisas ruins estar acontecendo? Ele simplesmente ficou calado, não \ndisse uma palavra em todo o meu desabafo, mas escutou atentamente sobre \nos acontecimentos. Eu disse: \" Deus eu sei que esta me ouvindo me de um \nsinal de que tudo vai ficar bem\". Eu estava escutando um louvor no \nyoutube e de repente escolhi um louvor do Gerson Rufino que se chama \n\"Vai passar\" esse louvor meu pai o canta na igreja e no meio do&nbsp; louvor \nestava escrito: Ele está enviando o consolo pra sua alma, enxugue essas \nlágrimas do rosto e tenha calma. No momento em que ouvi essa parte eu me\n senti bem, e Deus estava ao meu lado eu o senti, nos momentos mais \ndifíceis das nossas vidas a gente vai correndo pedir para que Deus nos \najude, mas e quando as coisas vai indo bem? Você agradece? Você o \nreconhece? Aparentemente vivemos assim, quando as coisas vai bem \nesquecemos de Deus. Mais Deus nunca esquece da gente, as coisas vem \nfugindo do controle a um bom tempo, e sempre pedi a Deus pra me ajudar, \nmas não da forma certa, o nosso Deus não é um Deus de mentiras ele \ncumpre o que prometeu, mas e a gente? Nós&nbsp; fazemos por Deus o que ele \nfaz por nós? As vezes não né.. Gente quanto tempo estamos perdendo \" a \ncada segundo que passa uma pessoa respira pela última vez\" e você ai com\n esse fôlego de vida, com q saúde boa, esquecemos de agradecer por tá \nvivendo né? Será mesmo se esquecemos ou não fazemos questão de tirar um \npouco do nosso tempo pra conversar com Deus? Gente Deus tem sido tão \nmaravilhoso pra mim desde do ventre da minha mãe, não estou aqui pra dar\n um \"sermão\" estou aqui pra abrir os olhos de vocês, Deus me curou de um\n câncer maligno, e dps de 5 anos só hoje consegui tirar palavras pra \nagradecer.. Todo nosso sacrifício ou dor se estamos com jesus vai ser \nrecompensado no céu, jesus morreu por mim e eu viverei para ele!! Jesus\n está vindo e estamos perdendo tempo, está na hora de abrimos nossos \nolhos e vê que o único caminho é Ele..\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para Deus tumblr\" class=\"irc_mi\" data-iml=\"1555719241366\" height=\"379\" src=\"https://static.tumblr.com/ca7a63bab4365e104b81a02b10791f80/ignpzht/XMan883zj/tumblr_static_filename_640_v2.jpg\" style=\"margin-top: 0px;\" width=\"253\" /\u003e",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/ca7a63bab4365e104b81a02b10791f80/ignpzht/XMan883zj/tumblr_static_filename_640_v2.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2895250329568043341/comments"
+   },
+   "labels": [
+    "Acontecimentos"
+   ]
+  },
+  {
+   "kind": "blogger#post",
    "id": "3894875494105391038",
    "blog": {
     "id": "4634552194872670494"
@@ -982,5 +1016,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xOFQyMDowNjowNS42MDFa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yMFQwMDoxNTowNS4wMzRa\""
 }
