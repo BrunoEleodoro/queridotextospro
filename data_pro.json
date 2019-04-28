@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "102756518800634193",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-04-28T15:18:00-07:00",
+   "updated": "2019-04-28T15:18:08-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDg5ODg4MTA5Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/04/voce-e-seu-outro-alguem.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/102756518800634193",
+   "title": "Você É Seu Outro Alguém.",
+   "content": "Eu te mostrei o lugar mais profundo do meu coração , mas você não viu , \nvocê finjiu que olhou , mas nem sequer virou o rosto pra mim enquanto eu\n estava te falando o quanto eu te amava ,\u003cbr /\u003e\nEu te mostrei um dos meus lugares favoritos no mundo , e disse que você \npoderia usar com alguém especial , eu esperava ser esse alguém , hoje \nvocê continua usando o lugar só que com outra pessoa\u003cbr /\u003e\nEu te contei todas as minha piadas ruins e você ria como se fosse a \ncoisa mais engraçada do mundo , hoje você também as conta pra um outro \nalguém .\u003cbr /\u003e\ntudo que eu te mostrei , você está mostrando pra outra pessoa , tudo que\n a gente viveu ,você está vivendo com outra pessoa , era pra ser a gente\n , mas é você e um outro alguém .\u003cbr /\u003e\n\u003cbr /\u003e\n#Escrevi \u003cbr /\u003e\n\u003cbr /\u003e\nGg\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556489874768\" height=\"325\" src=\"https://3.bp.blogspot.com/-Rt5Az8n0fj8/UrBn3xoIeyI/AAAAAAAAQOU/IIH71R6fK9s/s640/tumblr_mrpl8tlkiq1r3sa1ro1_500.jpg\" style=\"margin-top: 27px;\" width=\"500\" /\u003e ",
+   "images": [
+    {
+     "url": "https://3.bp.blogspot.com/-Rt5Az8n0fj8/UrBn3xoIeyI/AAAAAAAAQOU/IIH71R6fK9s/s640/tumblr_mrpl8tlkiq1r3sa1ro1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/102756518800634193/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "6173148136757378573",
    "blog": {
     "id": "4634552194872670494"
@@ -1301,5 +1332,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yOFQyMjowNTowNC4xMjFa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yOFQyMjoxODowOC4xMDla\""
 }
