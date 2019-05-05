@@ -3,6 +3,40 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "7574461975666979849",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-05T15:46:00-07:00",
+   "updated": "2019-05-05T15:46:40-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3MDk2NDAwMDI0Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/uma-praca-qualquer.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7574461975666979849",
+   "title": "Uma Praça Qualquer.",
+   "content": "\nEu estava sentada em um banco de uma praça qualquer, de repente eu sinto\n uma brisa acariciar meu rosto e lembro de você...uma lembrança boa, as \nmensagens fofas que a gente trocava no meio da madrugada, as promessas, \nos ciúmes fofos que acabavam em: \"eu te amo\", \"eu não vou te trocar \namor\", \"aaaaai que fofo, não precisa ter ciúmes\" e etc. Eu até deixei\n um sorriso frouxo no rosto, senti um aperto no coração e pensei em te \nligar, dizer que te amo, que sinto sua falta, que preciso de você, mas o\n vento fica um pouco mais forte e eu lembro dos momentos que não foram \nmuito agradáveis, as nossas brigas no meio da madrugada, as idiotices \nque ambas partes disseram e olha, não foram poucas idiotices, logo o \nsorriso se fechou, fiquei séria novamente e senti meus olhos se encherem\n de lágrimas, fiquei mal por tudo ter acabado, fiquei mal por que a \ngente tinha planos, a gente tinha coisas em comum, até parecia que dessa\n vez daria certo sabe? bom, o vento ficou fraco novamente e do nada \nparou, lembrei das coisas que você tinha me dito na noite do término, \nlembrei da maneira que me tratou, lembrei da maneira que jogou meus \ndefeitos na minha cara, lembrei de todo mal que você fez pra minha mente\n e logo comecei a chorar o aperto no coração aumentou mas peguei o \ncelular e apaguei seu número, apaguei tudo que me lembrava você, te \nexcluí das minhas redes sociais...e do local mais importante, por fim eu\n te arranquei, te arranquei do meu peito, ficou um machucado que estava \nardendo pra caramba, parecia que tinham tirado as rodinhas da minha \nbicicleta e eu tinha tomado um tombo daqueles, parecia aquelas dores de \ncólica que a gente sente e pensa que vai morrer, mas naquele momento eu \njá tinha em mente que ficaria bem, como se eu tivesse em mente que \ndepois da queda a dor iria passar, que depois de um banho bem longo e \nuns dois Buscopan a dor de cólica infernal iria passar, eu já tinha em \nmente que depois eu não sentiria mais nada por você e que tudo aquilo \niria virar uma daquelas lembranças que a gente só lembra uma vez a cada 5\n anos e dá uma risada nervosa, mas por fim, me levantei, respirei fundo\n e pensei...Você nunca foi isso tudo, eu que via muito onde não tinha \nnada...\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nThennyle Brito\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para praça tumblr\" class=\"irc_mi\" data-iml=\"1557096380856\" height=\"300\" src=\"https://i.pinimg.com/originals/51/e7/71/51e771a7f0804ba9e0b4457f3cc00d70.jpg\" style=\"margin-top: 0px;\" width=\"400\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/51/e7/71/51e771a7f0804ba9e0b4457f3cc00d70.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7574461975666979849/comments"
+   },
+   "labels": [
+    "Acontecimentos"
+   ]
+  },
+  {
+   "kind": "blogger#post",
    "id": "518754263748722238",
    "blog": {
     "id": "4634552194872670494"
@@ -1490,5 +1524,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wM1QyMjo0MDowMy41MTla\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wNVQyMjo0Njo0MC4wMjRa\""
 }
