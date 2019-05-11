@@ -3,6 +3,40 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "189469781709195402",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-11T14:24:00-07:00",
+   "updated": "2019-05-11T14:24:54-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjA5ODk0MTc3Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/amor-ex-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/189469781709195402",
+   "title": "Amor, Ex Amor",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nPassou, ufa! Porque é assim, mesmo que doa, por mais que doa vai passar. Aliás, já passou.\u003cbr /\u003e\nHoje em dia eu consigo ouvir seu nome e não lembrar de tudo o que \npassamos, todas as coisas... Textos, ligações,  declarações, carinhos \nque sempre acabavam me lembrando também da merda que você fez. Mas, cara, passou !!  Eu já não sinto mais essa \"dor\" que pra mim sempre pareceu mais um desconforto. Eu consigo falar do que passamos, da merda que você fez e não me sentir \ntraída, porque o sentimento que eu tinha por você simplesmente \ndesapareceu. Como mágica, sabe?! Do mesmo jeito que você aprontou comigo, eu tive a ousadia de te superar. Você me fazia tão bem, ou melhor... A pessoa que você criou e me \napresentou me fazia bem, pois você mesmo, você de verdade só me magoou. E outra vez, eu volto a dizer uma coisa que é tão libertadora... Eu \nsuperei! Já não me faz mais falta! Pelo contrário, me fez foi um favor \nde ter saído da minha vida. Já dizia a minha mãe: \"tudo passa nessa vida\". Nunca acreditei muito \nnessa frase, mas até que faz sentido, pois tudo passa nessa vida, até \nvocê! Isso é só um \"lembrei de você\", com um sorriso no rosto.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Ex \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAshley Andrade\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557573858546\" height=\"379\" src=\"https://photos.wavebid.com/retrievePhoto.html?id=c2855-a3615311-l1524494386-f739077336&amp;ext=JPG\" style=\"margin-top: 0px;\" width=\"284\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://photos.wavebid.com/retrievePhoto.html?id=c2855-a3615311-l1524494386-f739077336&ext=JPG"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/189469781709195402/comments"
+   },
+   "labels": [
+    "Ex"
+   ]
+  },
+  {
+   "kind": "blogger#post",
    "id": "8521546754139956941",
    "blog": {
     "id": "4634552194872670494"
@@ -1354,5 +1388,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wOVQyMDozMDoyNC4xODNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xMVQyMToyNDo1NC4xNzda\""
 }
