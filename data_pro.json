@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "6021197351867027034",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-14T13:13:00-07:00",
+   "updated": "2019-05-14T13:13:56-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3ODY0ODM2MTQyCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/nos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6021197351867027034",
+   "title": "Nós",
+   "content": "Bem, não tem como alguém nos descrever, procurei em todos os textos \npossíveis, não vou mentir, alguns chegam perto de nos descrever mas não \ntotalmente, a realidade é que nada chega tão perto de nós como nós \nmesmos, alguns dizem \" seu amor foi a minha maior dor e deixou tudo \ndestruído aqui\" outros \" eu te amei mas deixei por minha saúde mental\" \nisso não somos eu e você, não posso negar que sim, você me destruiu e \ndeixou acabada de formas que eu mal posso descrever mas meu amor eu sei \nque você me amou e eu sei que você nunca amou outra assim eu te amei e \nisso nunca vai mudar, acabou, eu sei que um dia a dor de ficar sem você ,\n sem teu abraço, carinho , sem seu toque, eu te amo , eu sei que vai \npassar, mas às vezes eu não quero que passe, prefiro ficar com a dor de \nte desejar e guardar o meu sentimento por você, todos acumulados aqui do\n que te deixar ir embora sem sobrar nada, talvez um dia eu vá de uma vez\n e pare de te amar psicologicamente mas saiba que, meu coração nasceu \npra ser seu!\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos \u003cbr /\u003e\n\u003cbr /\u003e\nGabs\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para beijos neom tumblr\" class=\"irc_mi\" data-iml=\"1557864780997\" height=\"379\" src=\"https://i.pinimg.com/originals/8c/7f/33/8c7f33c011098eda907cccad45b05267.jpg\" style=\"margin-top: 0px;\" width=\"303\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/8c/7f/33/8c7f33c011098eda907cccad45b05267.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6021197351867027034/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "3745817166791798101",
    "blog": {
     "id": "4634552194872670494"
@@ -1419,5 +1450,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xM1QxOTozNjowNC40NjRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xNFQyMDoxMzo1Ni4xNDJa\""
 }
