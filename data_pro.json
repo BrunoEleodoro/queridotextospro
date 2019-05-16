@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "8799691661749530180",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-16T11:48:00-07:00",
+   "updated": "2019-05-16T11:48:21-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4MDMyNTAxODQxCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/quarto-escuro_16.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8799691661749530180",
+   "title": "Quarto Escuro",
+   "content": "Chegando no quarto\u003cbr /\u003e\nA luz veio apagar\u003cbr /\u003e\nDeitou-se na cama\u003cbr /\u003e\nPara descansar\u003cbr /\u003e\nCabeça no\u003cbr /\u003e\ntravesseiro\u003cbr /\u003e\nNo tempo foi viajar\u003cbr /\u003e\nChegou em Jupiter\u003cbr /\u003e\nE não quisera dispertar\u003cbr /\u003e\nEra um sono profundo\u003cbr /\u003e\nQue não conseguia acordar\u003cbr /\u003e\nDeu lhe uma salto\u003cbr /\u003e\nEm Marte foi  parar\u003cbr /\u003e\nLá viu a terra\u003cbr /\u003e\nE o mar\u003cbr /\u003e\nBateu saudade\u003cbr /\u003e\nEsse veio acordar\u003cbr /\u003e\nConheceu o mundo\u003cbr /\u003e\nAté um poema aprendeu recitar\u003cbr /\u003e\nOs seus sonhos eram pura  viajem\u003cbr /\u003e\nQue nem pensava acordar\u003cbr /\u003e\nSuas ideias\u003cbr /\u003e\nSurgiam como\u003cbr /\u003e\nVento\u003cbr /\u003e\nPegava todos de surpresa\u003cbr /\u003e\nQuando liam suas escritas\u003cbr /\u003e\nNão tinha palavras\u003cbr /\u003e\nApenas maravilhados\u003cbr /\u003e\nEssa é a forma de escrever\u003cbr /\u003e\nEla surge como uma nascente\u003cbr /\u003e\nQue cresce,cresce e cresce\u003cbr /\u003e\nIndo para o mar.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos \u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;Rogério\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1558032364974\" height=\"379\" src=\"https://i.pinimg.com/originals/a0/75/e9/a075e92e6111504533cbe1ce2b6efaf3.jpg\" style=\"margin-top: 0px;\" width=\"303\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/a0/75/e9/a075e92e6111504533cbe1ce2b6efaf3.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8799691661749530180/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "6021197351867027034",
    "blog": {
     "id": "4634552194872670494"
@@ -1450,5 +1481,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xNFQyMDoxMzo1Ni4xNDJa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xNlQxODo0ODo0OC4xMTla\""
 }
