@@ -3,6 +3,40 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "4823413216217924031",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-26T13:01:00-07:00",
+   "updated": "2019-05-26T13:02:24-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4OTAwOTQ0Mzg0Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/minha-infancia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4823413216217924031",
+   "title": "Minha Infância.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nAqui no aconchego do meu lá, olho para o\n tempo e começo relembrar da minha infância.\nEra um tempo muito difícil, onde não tínhamos capacidade de usar uma \nroupa nova ou até mesmo comprar, incluindo meus pais. Esse tempo, o \ntrabalho braçal não tinha tanto valor. O trabalho era escasso e as \npessoas viviam unidas, diferentes de sua classe social,pois, tinham amor\n sobrando. As casas, eram feitas de barro amassado, onde reuniam vários \namigos, faziam uma feijoada e bebiam aquela pinguinha para se alegarem\u003cspan class=\"original-content\"\u003e...\u003c/span\u003e Ainda recordo muito bem de tudo isso!\nOs meus tios, primos e amigos faziam também …conforme a evolução das pessoas, hoje, eles têm uma casa feita de alicerce\u003cspan class=\"original-content\"\u003e ,\u003c/span\u003e diferente daquela época, sem contar que o telhado era de tábua e as paredes não tinham pintura\u003cspan class=\"original-content\"\u003e...\u003c/span\u003e\n Junto com meus primos, saíamos pelos campos nos aventurar, não tinha \ndia ruim, nem tristeza ou cansaço, tudo parecia parar no tempo. Embora, \nos anos passam e nós ficamos homens, enquanto nossos pais\u003cspan class=\"original-content\"\u003e,\u003c/span\u003e\n amigos e conhecidos próximos faleceram e nós tivemos que deixar para \ntrás um pouco da nossa vivência e trilhar um novo caminho.\nHoje cada um tem um serviço onde tem sua carteira assinada, sem contar \nque se casaram e já tem filhos, que terá essa história contada pelos \nseus pais. Eles também poderão ver álbum de fotos, enquanto nossa época \ntinha apenas um monóculo de foto dos nossos bisavôs.\nHoje também, as crianças já são influenciadas desde pequenas, antes \nmesmo de estudar, já têm contato com smartphones enfim, festas de \naniversários e uma vida de luxo se comparar tempos atrás. Muitas também \ntem liberdade decidir seu futuro, tampouco sabe dá valor, mas deixo \nclaro aos que não tiveram um passado sem energia elétrica e demais \nbenefícios: Dê valor, veja o quanto seus avós e pais sofreram para os \ncolocarem onde estão.\n“\u003cspan class=\"original-content\"\u003e o \u003c/span\u003ejeans que eu vestia, era roupa doada por outras pessoas, tínhamos felicidade\u003cspan class=\"original-content\"\u003e\"\u003c/span\u003e. Você pode mudar, não importa o quão difícil foi seu passado, supere!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nRogério\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para brincando com carrinho  tumblr\" class=\"irc_mi\" data-iml=\"1558900886482\" height=\"353\" src=\"https://www.viihrocha.com.br/wp-content/uploads/2017/05/carrinho-de-supermercado-look-coachella-2fotos-carrinho-supermercado-35.jpg\" style=\"margin-top: 0px;\" width=\"235\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://www.viihrocha.com.br/wp-content/uploads/2017/05/carrinho-de-supermercado-look-coachella-2fotos-carrinho-supermercado-35.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4823413216217924031/comments"
+   },
+   "labels": [
+    "Acontecimentos"
+   ]
+  },
+  {
+   "kind": "blogger#post",
    "id": "6250997554424367419",
    "blog": {
     "id": "4634552194872670494"
@@ -1667,5 +1701,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yNVQyMToyMzoyMy45MzNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yNlQyMDowMjoyNC4zODRa\""
 }
