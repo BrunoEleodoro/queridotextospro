@@ -3,6 +3,40 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "8095681399709886366",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-29T12:46:00-07:00",
+   "updated": "2019-05-29T12:46:58-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5MTU5MjE4NTEwCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/eu-realmemte-estou-bem.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8095681399709886366",
+   "title": "Eu Realmemte Estou Bem.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu finalmente e realmente estou bem comigo mesmo, posso sentir um \nenorme peso saindo das minhas costas no qual eu não fazia ideia que \nestava carregando junto com uma tristeza constante e completamente \nirritante.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nSim, eu estou sozinho mas eu passei a apreciar isso e percebi que não\n preciso de ninguém pra realmente viver bem, apenas de mim e eu me tenho\n quase que por completo. Eu estou me conhecendo, confesso que esta sendo\n algo difícil mas eu estou me descobrindo e aquele sentimento de que \n\"será que eu nunca vou encontrar alguém que me ame de verdade?\" \"será \nque eu vou me tornar um velho sozinho que vivem completamente \nsolitário?\" sumiu, talvez no futuro eu encontre alguém, eu quero \nencontrar alguém só que por agora, eu estou começando a me amar de \nverdade e isso é o suficiente.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e#Acontecimentos \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;SecretyWolf\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1559159187190\" height=\"353\" src=\"https://cdna.artstation.com/p/assets/images/images/012/365/948/large/lucie-martin-neongirl003.jpg?1534422913&amp;dl=1\" style=\"margin-top: 0px;\" width=\"353\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://cdna.artstation.com/p/assets/images/images/012/365/948/large/lucie-martin-neongirl003.jpg?1534422913&dl=1"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8095681399709886366/comments"
+   },
+   "labels": [
+    "Acontecimentos"
+   ]
+  },
+  {
+   "kind": "blogger#post",
    "id": "4823413216217924031",
    "blog": {
     "id": "4634552194872670494"
@@ -1701,5 +1735,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yNlQyMDowMjoyNC4zODRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yOVQxOTo0Njo1OC41MTBa\""
 }
