@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "1698488774757746679",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-31T12:37:00-07:00",
+   "updated": "2019-05-31T12:37:19-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5MzMxNDM5NjY0Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/ate-mais-tarde-quem-sabe.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1698488774757746679",
+   "title": "Até Mais Tarde, Quem Sabe ?",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nFoi lindo, foi tudo lindo! até o nosso último encontro, nosso último beijo, nosso último abraço e nosso último adeus. Eu errei, você errou, erramos. Os meses que passei com você foram os \nmelhores da minha vida inteira, e olha que já vivi tantos amores, mas \ncontigo foi diferente, sabe?! Você agora deve estar feliz, conhecendo outra galera e se divertindo, \nenquanto eu estou aqui pensando no que eu poderia ter feito diferente e \nplanejando um futuro melhor pra mim, talvez, pra nós. Todo dia peço aos \ncéus você comigo, peço pra cuidar de ti onde você estiver e com quem \nestiver, amar é isso, é amar de longe, é deixar ir quando a vontade não é\n mais ficar e tudo bem! Só que hoje, o controle não está mais na minhas mãos, vou viver minha vida e deixar acontecer. Esse amor ainda ARDE aqui dentro, e você sabe que quando quiser voltar \neu sempre vou estar aqui, te esperando. Torço pra que no futuro nos \nencontremos com nossos corações mais decididos, maduros e prontos! Sei que o futuro tem algo lindo pra gente, mas não foi nossa hora. amo \nvocê em segredo, e seja lá onde estiver agora, saiba que meu coração \nestá junto a ti. mas enquanto não nos esbarramos por ai, vamos viver \nnossos dias. Até mais tarde, quem sabe?! Nunca é um adeus, meu querido antigo amor!,\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Ex\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nEmily Victória\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1559331403756\" height=\"266\" src=\"https://1.bp.blogspot.com/-arywf8buXy8/Wi2qnKtzZBI/AAAAAAAAMik/6aSf2YhZKisALa-dV6nNcSiBBUOJ_n1cwCLcBGAs/s400/pexels-photo-54566.jpeg\" style=\"margin-top: 0px;\" width=\"400\" /\u003e \u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://1.bp.blogspot.com/-arywf8buXy8/Wi2qnKtzZBI/AAAAAAAAMik/6aSf2YhZKisALa-dV6nNcSiBBUOJ_n1cwCLcBGAs/s400/pexels-photo-54566.jpeg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1698488774757746679/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "7366313432652464882",
    "blog": {
     "id": "4634552194872670494"
@@ -1766,5 +1797,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0zMFQyMzo1NjowMy4xODha\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0zMVQxOTozNzoxOS42NjRa\""
 }
