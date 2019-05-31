@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "7366313432652464882",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-05-30T16:56:00-07:00",
+   "updated": "2019-05-30T16:56:03-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5MjYwNTYzMTg4Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/05/meus-365-dias.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7366313432652464882",
+   "title": "Meus 365 dias.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nBom mais um ano se passou, apesar das coisas terem acontecido boas e \nruins foram 365 dias que pessoas entro na minha e saíram foi 365 dias de\n choros mais de risos foram 365 dias que me ensinaram muitas coisas \nforam 365 dias que cada dia que passava eu aprendia um pouco mais. Talvez não podemos estar satisfeito com algumas coisas que aconteceu \nnesse ano talvez achamos que íamos desisti antes de completa 365 dias \nmais estamos aqui mesmo com as dores mesmo com os problemas estamos aqui\n né? E nesses 365 dias pensamos em tantas coisas em muda isso em muda \naquilo as vezes conseguimos mudar e as vezes as mudanças acontecem \nsozinhas! Hoje eu vejo que eu pensei que umas pessoas que fossem pra estar comigo \nnão estar mais é a vida tem pessoas que entram mais nunca na intenção de\n ficar. E nesses 365 dias você só reclamo da vida? Que nada estava bom ? Que \nnada era como vc planejou? Ou paro para agradecer por mais um dia de \nvida ? Por ter acordado com saúde ? Por ter acordado respirando? \nReclamamos tanto que esquecemos de agradecer a Deus pelo o que eles nós \nproporciona !\u003cbr /\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nBom Sabe o que é estranho nessas retrospectivas de fim de ano? A gente percebe a quantidade de pessoas que passaram pela nossa vida e \nque se perderam no tempo. Pessoas que já estiveram do nosso lado em \nmomentos importantes e que hoje nem lembramos o nome. É uma sensação de \nperda, mas ao mesmo tempo uma sensação de dever cumprido. ocupadas demais reclamando das decepções ao longo do ano dos sonhos não \nrealizados das metas não alcançadas. Eu te desafio a lembrar de todos os\n momentos felizes vividos esse ano por menor que tenha cido junta ai \ntodas alegrias e verá que nem tudo foi tão ruin assim. E se talvez relembrar ás alegrias seja pouco então pensa que tem gente \nque esse ano perdeu o pai a mãe a vó que tanto amava, aquele primo que \ntava sempre junto pra tudo. Pensa que tem gente que vai passar a virada \ndo ano em um leito de hospital nas ruas. Temos que Agradecer mais e reclamar menos agradecer pelas coisas que \ntomamos como comum, agradecer pelo simplis fato de acordar mais um dia \nde andar de comer, de falar. Porque quem é grato é mais feliz. Obrigada \nsenhor por minha saúde ao longo do ano, pela saúde de minha mãe, pai e \nde todos que eu amo. Obrigada pela comida no prato todos os dias, pelo \nteto. Obrigada por mais um ano de vida gratidão\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nBia Nascimento\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para estrelas pexels\" class=\"irc_mi\" data-iml=\"1559260500195\" height=\"379\" src=\"https://ijb.org.br/wp-content/uploads/2016/12/pexels-photo-1480713-400x400.jpeg\" style=\"margin-top: 0px;\" width=\"379\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://ijb.org.br/wp-content/uploads/2016/12/pexels-photo-1480713-400x400.jpeg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7366313432652464882/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "8095681399709886366",
    "blog": {
     "id": "4634552194872670494"
@@ -1735,5 +1766,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yOVQxOTo0Njo1OC41MTBa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0zMFQyMzo1NjowMy4xODha\""
 }
