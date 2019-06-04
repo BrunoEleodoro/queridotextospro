@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "1249050534971617135",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-06-03T16:51:00-07:00",
+   "updated": "2019-06-03T16:51:32-07:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NjA1ODkyNzczCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/06/a-dor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1249050534971617135",
+   "title": "A dor ",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEra sexta-feira por volta das   7h da manhã,eu ainda estava  \ndeitado,pois ,havia    trabalhado no plantão  diurno anteriormente \n(12/36)   e seria  mais um dia de folgo,de repente,meu  celular toca   \n,era uma ligação da minha encarregada.Assim que atendi a ligação,ela me \nfala :Por favor, ajude-me  toda preocupada!\u003cbr /\u003e\nEu ,então  perguntei:\u003cbr /\u003e\n-o que houve?\u003cbr /\u003e\n-Ela me responde: preciso urgentemente de você aqui,pois há um  cidadão que está \nsentindo muita dor abdominal junto com ânsia de vômito  que me corta o \ncoração,não sei o que fazer!!!!De    pronto ,eu levantei-me e   escovei os dentes , coloquei uma roupa e\n sair rápida para atendê-la,sem ao menos tomar café da manhã.Quando chego na edificação ,onde trabalho, vejo um senhor parceiro de \ntrabalho,se contorcendo de dores  quase sem fala....Colocamos   o mesmo \n em um veículo e fui acompanhar o mesmo até um pronto socorro.Ao \nchegarmos nos local  após 1h  de viagem,o mesmo foi atendido,mas \nprecisou do cadastro pelo plano de saúde.O   senhor, deitou-se em umas \ncadeiras  e  dizia com voz branda:Meu Deus, será que vou morrer dessa \nvez! Eu alí a ti observar,apenas aguardando  seu atendimento e dentro de mim \nmurmurava uma angústia enorme....  nada pude fazer naquele momento! Após aguardarmos   por vários minutos,fomos atendidos ,o mesmo passou a \nse locomover numa cadeira de rodas com minha ajuda.Fomos  para uma \ndeterminada sala,onde o mesmo recebeu uma medicação na veia e apaziguou \n a sua dor, por um tempo.Em seguida ,após o término da medicina na \nveia,encaminharam para que ele fizesse    a ultrassonografia do     \nabdômen , onde  constatou pedra na vesícula....Depois que não havia mais\n a necessidade do meu acompanhamento e pelo mesmo ser maior de idade, \ndeixei o sozinho  sob cuidados da equipe médica e voltei para minha \nresidência em paz. Quando estava quase anoitecendo,o mesmo me liga e me fala:Amigo , já \nfizeram a minha cirurgia, estou  bem,não sinto mais a dor  e nem sei o \nquanto lhe agradecer, somente Deus pode ti  recompensar...Eu sem \npalavras,apenas o desejei melhoras! Naquele momento, agradeci grandiosamente a Deus pelo meu feito ....E o mesmo, HOJE está bem, feliz junto aos familiares. \"não importa  a cor raça ou religião,se precisar de ajuda,ajude, porquê não sabemos o que nos espera amanhã\"! **** deixe seu lado humano atribuí o bem\"!\u003cbr /\u003e\u003cbr /\u003e\"honra essa vida com amor\"\u003cbr /\u003e\u003cbr /\u003e\"Bombeiro civil com orgulho\"\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para manhã7 pexels\" class=\"irc_mi\" data-iml=\"1559605849468\" height=\"379\" src=\"https://images.pexels.com/photos/1936528/pexels-photo-1936528.jpeg?cs=srgb&amp;dl=de-manha-cedo-fresco-1936528.jpg&amp;fm=jpg\" style=\"margin-top: 0px;\" width=\"505\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nRogério \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1936528/pexels-photo-1936528.jpeg?cs=srgb&dl=de-manha-cedo-fresco-1936528.jpg&fm=jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1249050534971617135/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "1698488774757746679",
    "blog": {
     "id": "4634552194872670494"
@@ -1797,5 +1828,5 @@
    ]
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0zMVQxOTozNzoxOS42NjRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNi0wM1QyMzo1MTozMi43NzNa\""
 }
