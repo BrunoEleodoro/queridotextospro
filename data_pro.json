@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "3931693777611065427",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-06-17T14:12:00-07:00",
+   "updated": "2019-06-17T14:12:30-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYwODA1OTUwNTc0Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/06/assassinato.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3931693777611065427",
+   "title": "Assassinato.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDesculpas meu amor, mas eu tive que te matar, eu fui obrigado a tomar essa atitude, eu pensei, repensei e pensei novamente, procurei todas as alternativas para não tomar essa atitude, mas não tinha nenhuma, eu tive que te matar, e foi a coisa mais difícil da minha vida. Eu te matei, cortei qualquer resquício seu da minha vida, excluí seu número, bloqueei seu Facebook, Instagram, até mesmo seu Twitter, porque eu não aguentava mais entrar nos seus perfis e ver você com outro, todas as suas promessas, minhas promessas, nossas promessas, morreram, mas não fui eu que matei elas, você matou, matou a chance de te fazer feliz, e eu te que matar, arrancar, excluir você dá minha vida, desculpas amor, mas você estava me machucando demais, eu sei que não era isso que você queria, mas era o que acontecia.\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Ex\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para queimando  tumblr\" src=\"https://ocultismopel.files.wordpress.com/2014/10/papel-queimando.jpg?w=497\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://ocultismopel.files.wordpress.com/2014/10/papel-queimando.jpg?w=497"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3931693777611065427/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "937616550573847725",
    "blog": {
     "id": "4634552194872670494"
@@ -2135,5 +2166,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0xNVQyMDo1MjowNS44MDVa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0xN1QyMToyMzowNi45ODNa\""
 }
