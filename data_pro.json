@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "2064170213741069581",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-07-04T14:37:00-07:00",
+   "updated": "2019-07-04T14:37:41-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYyMjc2MjYxNzQyCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/07/tudo-tem-um-fim.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2064170213741069581",
+   "title": "Tudo Tem Um Fim.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nTudo que eu queria agora era estar escrevendo sobre o quanto estamos felizes juntos mas não é sobre isso que eu vim falar com você.&nbsp;Sente aqui do meu lado,pegue uma xícara de café talvez a conversa seja longa,pegue a coberta pois talvez sinta frio, eu não planejei muito bem por onde começar, não&nbsp; sei se o português estará correto pois quando fico do seu lado o dicionário parece um livro escrito em branco onde pra mim nada tem uma tradução. Eu te escolhi para dividir desde a senha da Netflix até a mesma cama mas o destino não aceita controvérsias, não vai ser comigo que você irá colocar às séries em dia ,as batidas compassadas do seu coração não sou eu que irei ouvir,suas mãos junto das minhas não terão mais o encaixe tão perfeito, nossas conversas aos poucos vão diminuir, seus olhos não brilharam mais pra mim,seu jeito doce e safado de ser passaram para a ser direcionados a outra pessoa e uma droga que eu não estou dilacerada com isso. Você me deixou antes mesmo de chegar,eu e não te pedi que ficasse e muito menos que me amasse, éramos perfeitos do nosso jeito louco de viver a vida, sem rótulos ou cobranças, nada assumido pois o mundo não precisava saber que éramos felizes no silêncio de uma sala de estar.Mas sua escolha foi ir e eu não poderia te obrigar a ficar. Sabe tem uma frase que você sempre dizia pra mim quando eu estava triste por conta de algo.Essa pequena frase agora pra mim faz todo o sentido .Você sussurrava baixinho no meu ouvido:\"independente de nós seguirmos juntos ou não, eu serei seu e você minha. Senão nessa serão em outras vidas \".\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMas como todo bom livro é chegada a hora da última página ser fechada,chegamos ao final onde coisas felizes serão lembradas e as tristes esquecidas.Chegou o momento de fechar o livro e cair uma pequena lágrima pela face,sentir a emoção de ter vivido cada segundo dessa história com você ao meu lado.Hora de cada um&nbsp; seguir seu caminho,ir atrás da sua felicidade que te espera no final daquela porta,fico feliz por já ter encontrado à sua e prometo torcer para que dê certo!Como todo livro precisa de um fim esse será o nosso.O amor não assumido que restou de um coração partido.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nJá pode levantar e partir a caminhada para você ainda é longa meu amor, te cuida daí que eu cuido daqui.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFrancilene\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cimg alt=\"Resultado de imagem para fim tumblr\" class=\"irc_mi\" height=\"300\" src=\"https://66.media.tumblr.com/db6a673a80c6f9cb334c05f466c0b595/tumblr_pj15nh98o51ufdsc7o1_400.jpg\" style=\"margin-top: 54px;\" width=\"400\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/db6a673a80c6f9cb334c05f466c0b595/tumblr_pj15nh98o51ufdsc7o1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2064170213741069581/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "4090072689423533211",
    "blog": {
     "id": "4634552194872670494"
@@ -2297,5 +2328,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0wM1QyMToyOToyNi4xMTha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0wNFQyMTozNzo0MS43NDJa\""
 }
