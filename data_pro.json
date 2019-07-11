@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "5523616413352076573",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-07-10T17:06:00-07:00",
+   "updated": "2019-07-10T17:06:43-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYyODAzNjAzODc5Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/07/eu-te-amo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5523616413352076573",
+   "title": "Eu te amo.",
+   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eEu te amo de uma forma que nunca amei ninguém. Sinto que posso confiar em ti de olhos fechados. Você me conquistou de uma maneira que não consigo nem explicar,sou completamente apaixonada por você, pelo seu jeitinho tão doce, seu cabelo,seu sorriso, seus olhos caramelo. Tenho muito medo de te perder simplesmente porque você é a pessoa mais engraçada, carinhosa e incrível&nbsp;que eu já conheci na vida. Se algum dia o mundo se virar contra você, será eu e você contra um mundo!\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e#Escrevi\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eCamile Vitoria\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cimg alt=\"Resultado de imagem para relacionamento tumblr\" height=\"320\" src=\"https://scontent-lht6-1.cdninstagram.com/vp/33843de580ba42a60296348076a420b7/5DB7A2B2/t51.2885-15/e35/50082625_394350748000107_6786353047322374539_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&amp;se=7&amp;ig_cache_key=MTk2NzkyNzM0OTA4Njc0MTEzOQ%3D%3D.2\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://scontent-lht6-1.cdninstagram.com/vp/33843de580ba42a60296348076a420b7/5DB7A2B2/t51.2885-15/e35/50082625_394350748000107_6786353047322374539_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&se=7&ig_cache_key=MTk2NzkyNzM0OTA4Njc0MTEzOQ%3D%3D.2"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5523616413352076573/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "5826774712207655977",
    "blog": {
     "id": "4634552194872670494"
@@ -2421,5 +2452,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0wOFQyMTozODo1NS4yMzha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xMVQwMDowNjo0My44Nzla\""
 }
