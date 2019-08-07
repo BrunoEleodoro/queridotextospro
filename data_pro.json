@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "1331139885732577541",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-08-07T15:12:00-07:00",
+   "updated": "2019-08-07T15:12:54-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY1MjE1OTc0NDMyCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/08/o-amor-da-sua-vida.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1331139885732577541",
+   "title": "O Amor da Sua Vida.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nUm dia, alguém vai aparecer na sua vida e tirar tudo do lugar. Mudar os seus hábitos, algumas opiniões, a sua cor preferida, os seus passeios de sexta, o seu programa de tv. Vai mudar também o primeiro pensamento ao acordar, e os sonhos de todas as noites, vai fazer você se superar a cada dia, e aprender a essência verdadeira do amor. Essa mesma pessoa vai fazer o seu pesadelo de infância mudar, e o que era o bicho papão do armário agora é o medo de vê-la partir algum dia. Essa pessoa vai também ser a razão para você estar aqui. Vai fazer você ter vontade de apresentá-la a todos, ter vontade de mostrar suas manias, levá-la aos seus lugares prediletos, vai fazer crescer em ti algo muito belo e especial, algo que você jamais sentiu .Vai fazer você sonhar acordada a viagem do ônibus do parque até a sua casa, durante o banho. Vai fazer você ficar suspirando de minuto em minuto, vai fazer você sentir paz apenas ao olhar para ela. Essa pessoa vai pegar seu mundo e virar do avesso, mas você não vai ligar, apenas vai achar tudo muito lindo, como tudo o que ela faz. Vai fazer você pensar em futuro, em construir uma família. Vai fazer você desejar sempre ser o seu melhor só para agradá-lo, vai querer fazer você em pleno sábado assistir um filme reprisado na tv, apenas porque a companhia ao seu lado será ela. Essa pessoa vai te fazer crescer, te fazer vibrar a cada sorriso, e sempre vai estar ali para abraçar você caso haja quedas. Essa pessoa será seu porto seguro, aquela que você sempre esperou. Essa pessoa é o amor da vida toda.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"320\" src=\"https://i.pinimg.com/originals/a3/c1/94/a3c194882e327ec0c4b8fa7b3d41007a.jpg\" width=\"260\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/a3/c1/94/a3c194882e327ec0c4b8fa7b3d41007a.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1331139885732577541/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "8092474105019784648",
    "blog": {
     "id": "4634552194872670494"
@@ -2762,5 +2793,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0wNVQyMjoyNzoxMy4yMDla\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0wN1QyMjoxMjo1NC40MzJa\""
 }
