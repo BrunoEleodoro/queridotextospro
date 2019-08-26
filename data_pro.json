@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "3654309367615948796",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-08-25T14:51:00-07:00",
+   "updated": "2019-08-25T15:06:23-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2NzcwNzgzODA5Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/08/gosto-de-gente-que-me-aceita.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3654309367615948796",
+   "title": "Gosto de Gente Que Me Aceita.",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; text-align: justify;\"\u003eGosto de gente que me aceita, que me atura, que não reclama de mim, ou que reclama mas continua. Gosto de gente que aceita falar de qualquer assunto, que não é fresca, gente que se sente bem ao meu lado. Gosto de gente que não me faz perguntar se estou incomodando, se preciso sair. Gosto de gente que eu não preciso chamar pra vir, que eu não preciso dizer pra ela ler no meu olhar. Gosto de quem está comigo por ser quem eu sou, de quem me ouve por horas e mesmo assim não se cansa de dar o ombro pra eu apoiar. E gosto, acima de tudo, de gente que permanece.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; text-align: justify;\"\u003e#Escrevi\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\nJoão Pedro Bueno\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para homem gay tumblr\" src=\"https://66.media.tumblr.com/cb4e64de5ea27fb45ddda878c4434f59/tumblr_plj7xu2T1B1t1r9yv_540.jpg\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/cb4e64de5ea27fb45ddda878c4434f59/tumblr_plj7xu2T1B1t1r9yv_540.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/3654309367615948796/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "8264275605360681446",
    "blog": {
     "id": "4634552194872670494"
@@ -2846,5 +2877,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0xOVQyMzozMzozMC4zMDha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNVQyMjowNjoyMy44MDla\""
 }
