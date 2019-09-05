@@ -3,6 +3,68 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "1364818903690774592",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-09-04T16:51:00-07:00",
+   "updated": "2019-09-04T16:51:50-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NjQxMTEwMjcwCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/09/nao-abra-mao-do-seu-sonho.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1364818903690774592",
+   "title": " Não abra mão do seu sonho.",
+   "content": "Hoje vim dizer a você que a última palavra vem do Senhor, mesmo que tudo pareça impossível e que alguém diga pra você: não é pra ser, não tem mais jeito, não vai dar certo, quem dá as ordens é Deus, e quem faz a obra acontecer é Ele também. Talvez o seu coração esta nesse momento desistindo de um sonho por estar tão difícil e distante, repito, quem assina o milagre é Deus, e quem faz ele acontecer, é Deus também. Não abra mão do seu sonho, por favor.\u003cbr /\u003e\n\u003cbr /\u003e\n#Escrevi\u003cbr /\u003e\n\u003cbr /\u003e\nGabriela Soares\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para esperanÃ§a tumblr\" src=\"https://lucianahonorata.files.wordpress.com/2011/08/tumblr_kxhbn04n5z1qzidboo1_500.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://lucianahonorata.files.wordpress.com/2011/08/tumblr_kxhbn04n5z1qzidboo1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1364818903690774592/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1420121170151730422",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-09-04T16:39:00-07:00",
+   "updated": "2019-09-04T16:39:46-07:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NjQwMzg2NDIzCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/09/nao-desanime.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1420121170151730422",
+   "title": "Não Desanime",
+   "content": "Quando você passar por uma situação difícil, não desanime e nem fique tendo pensamentos do tipo: “Por que será que isso está acontecendo comigo?” Em vez disso, você precisa é levantar-se na fé e dizer: “Esse mar agitado é apenas Deus me tirando da minha zona de conforto e me levando a um lugar melhor”. Entenda, você precisa é manter a sua mente na direção certa. Quando você aprender a pensar de modo positivo de propósito, entrará na corrente das bênçãos de Deus. Ganhará uma força extra, terá uma coragem que nunca sentiu e se surpreenderá com a velocidade com que Deus transformará tudo em sua volta.\u003cbr /\u003e\n\u003cbr /\u003e\n#Escrevi\u003cbr /\u003e\n\u003cbr /\u003e\nGabriela Soares\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para desanime tumblr\" height=\"319\" src=\"https://cdn.mensagenscomamor.com/content/images/m000498133.jpg?v=1&amp;w=600&amp;h=599\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://cdn.mensagenscomamor.com/content/images/m000498133.jpg?v=1&w=600&h=599"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1420121170151730422/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "8704250992876131811",
    "blog": {
     "id": "4634552194872670494"
@@ -2908,5 +2970,5 @@
    ]
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wM1QxOTozNTo1MC4xNDha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wNFQyMzo1MTo1MC4yNzBa\""
 }
