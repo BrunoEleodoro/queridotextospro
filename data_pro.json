@@ -1396,37 +1396,7 @@
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/999207354843047516/comments"
    }
   },
-  {
-   "kind": "blogger#post",
-   "id": "2224293502063973966",
-   "blog": {
-    "id": "4634552194872670494"
-   },
-   "published": "2019-06-14T17:51:00-07:00",
-   "updated": "2019-06-14T17:51:26-07:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYwNTU5ODg2NzE2Cm9mZnNldDogLTI1MjAwMDAwCg\"",
-   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/06/eu-vou-te-esquecer_14.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2224293502063973966",
-   "title": "Eu Vou Te Esquecer ",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nEu preciso te esquecer, não consigo mais ficar pensando e pensando em você, você não está mais aqui, você não é minha mais, mas você não saí da minha cabeça. Tudo que eu queria era passar um dia sem lembrar de você, dos momentos que tivemos, de tudo que aconteceu entre nós e até mesmo, imaginar o que poderíamos ter vividos juntos, mas acabou né?? Fala isso para minha mente, porque para ela, para minha cabeça, eu vou acordar e você vai estar me mandando mensagem de \"bom dia\", ou simplesmente falar que me ama, era tudo o que eu precisava. Um dia, talvez um dia eu te esqueça, não tenho certeza, mas, eu tenho certeza que esse dia não é hoje.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n#Ex\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Man Standing on Rooftop Facing Brown Highrise Building\" height=\"213\" src=\"https://images.pexels.com/photos/2310698/pexels-photo-2310698.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"320\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/2310698/pexels-photo-2310698.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/2224293502063973966/comments"
-   }
-  },
+  
   {
    "kind": "blogger#post",
    "id": "4225121307634435910",
