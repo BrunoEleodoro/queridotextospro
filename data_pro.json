@@ -3,37 +3,6 @@
  "items": [
   {
    "kind": "blogger#post",
-   "id": "6105761227938639747",
-   "blog": {
-    "id": "4634552194872670494"
-   },
-   "published": "2019-09-13T12:15:00-07:00",
-   "updated": "2019-09-15T17:56:15-07:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4NTk1Mzc1NzYxCm9mZnNldDogLTI1MjAwMDAwCg\"",
-   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/09/voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6105761227938639747",
-   "title": "Você.",
-   "content": "\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003eFinalmente tomei coragem e desisti de você. Não queria fazer isso, mas também não podia viver numa mentira. Eu tentei não me apegar tanto assim em você, tentei não me apaixonar, tentei não me iludir, tentei não chorar, tentei não sonhar com momentos perfeitos do seu lado. Tentei não me importar quando você me tratava com indiferença ou quando você dizia que tinha ficado com mais uma, só que era inevitável não se importar porque eu te amava, na verdade, ainda te amo e foi por esse motivo que a gente acabou. Um simples “oi” seu já era o suficiente pra me fazer ficar sorrindo o dia inteiro, é incrível esse efeito que você tinha e ainda tem sobre mim. Meu erro foi ter fantasiado coisas que nunca existiam, eu fantasiei um grande amor, mas não existiu nem amizade, fantasiei momentos que não passaram de ilusões, fantasiei a felicidade mas no fim só restou a tristeza e a saudade, que aumenta a cada dia que passa. Não está sendo fácil pra mim, as lembranças chegam quando eu menos espero e formam um grande buraco em meu peito. E eu vou tentar, de verdade, com todas minhas forças seguir em frente, sem olhar pra trás. Só que infelizmente tentar não significa conseguir.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003e#Ex\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003e— Eduarda Ferreira.&nbsp;\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background: rgb(255, 255, 255); border: 0px; font-family: arial; outline: 0px; padding: 0px; text-align: justify; vertical-align: baseline;\"\u003e\n\u003cimg alt=\"@nhairofficial\" height=\"320\" src=\"https://i.pinimg.com/564x/99/34/6c/99346c81e3c1f1f9dbd4ee4a51ea787e.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/564x/99/34/6c/99346c81e3c1f1f9dbd4ee4a51ea787e.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/6105761227938639747/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
    "id": "5607960078962585255",
    "blog": {
     "id": "4634552194872670494"
@@ -3001,5 +2970,5 @@
    ]
   }
  ],
- "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xNlQwMDo1NjoxNS43NjFa\""
+ "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOFQwMTo0MToyOS40NTBa\""
 }
