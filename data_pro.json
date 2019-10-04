@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "5523766969295304615",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-10-03T16:30:00-07:00",
+   "updated": "2019-10-03T16:30:44-07:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwMTQ1NDQ0ODQ2Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/10/buscando-uma-compreensao.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5523766969295304615",
+   "title": "Buscando uma compreensão.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\nMergulhei no passado tentando\u003cbr /\u003e\ncompreender o presente de uma vida\u003cbr /\u003e\ne descobrir em tantos enganos\u003cbr /\u003e\na verdade escondida nas mentiras.\u003cbr /\u003e\nEm que dobra do tempo vivido\u003cbr /\u003e\nela ficou perdida; oculta nas sombras,\u003cbr /\u003e\ntantas vezes negada ou transformada.\u003cbr /\u003e\nO tempo partilhado com o nada.\u003cbr /\u003e\nO prazer sofrido, sem o gozo\u003cbr /\u003e\ndo ideal imaginado; perdido.\u003cbr /\u003e\nA mudança rápida de amores,\u003cbr /\u003e\ndeixou a mágoa do vazio;\u003cbr /\u003e\ne, por não ser o amor de verdade,\u003cbr /\u003e\nfiquei sozinha, sem compreender\u003cbr /\u003e\no destino cruel que nos leva\u003cbr /\u003e\na viver tudo o que não é, verdadeiro...\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\n#Escrevi\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px;\"\u003e\nLuh.M\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"kategpadilla\" height=\"320\" src=\"https://i.pinimg.com/564x/4d/2d/fe/4d2dfea08d6bb2a0069da643f7ef3e0d.jpg\" width=\"214\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/4d/2d/fe/4d2dfea08d6bb2a0069da643f7ef3e0d.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5523766969295304615/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "6738623978804034974",
    "blog": {
     "id": "4634552194872670494"
@@ -3063,5 +3094,5 @@
    ]
   }
  ],
- "etag": "\"MjAxOS0xMC0wMlQyMToyNzoyNS42OTRa\""
+ "etag": "\"MjAxOS0xMC0wM1QyMzozMDo0NC44NDZa\""
 }
