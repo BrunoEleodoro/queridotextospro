@@ -3,6 +3,68 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "1653752932698836671",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-10-11T16:19:00-07:00",
+   "updated": "2019-10-11T16:19:56-07:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwODM1OTk2NTgyCm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/10/sinto-sua-presenca-todo-momento.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1653752932698836671",
+   "title": "Sinto sua presença a todo momento.",
+   "content": "Sinto sua presença a todo momento\u003cbr /\u003e\nSignifica que estou perdidamente apaixonado,\u003cbr /\u003e\nSinal que encontrei minha alma-gêmea.\u003cbr /\u003e\nSinceramente, fico feliz por ter você.\u003cbr /\u003e\nSimplesmente, te amo, te amo, te amo.\u003cbr /\u003e\nSinto o meu coração bater mais forte.\u003cbr /\u003e\nSim, realmente é Amor.\u003cbr /\u003e\nSinto vontade de te ter eternamente,\u003cbr /\u003e\nSíndrome (a) de amar-te intensamente\u003cbr /\u003e\n\u003cbr /\u003e\nDedicado ao meu Amor Tatiana Oliveira\u003cbr /\u003e\n\u003cbr /\u003e\n#Escrevi\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"+70 ideias de poses para sessÃ£o de fotos - Blog da Ana Liberato #photography #fotografia #poses #lookdodia #blogueira #instagram #tumblr #fotostumblr #photoshoots #mariahcarey\" height=\"320\" src=\"https://i.pinimg.com/564x/bf/90/62/bf906210787ca624f213782cd2df3dd6.jpg\" width=\"258\" /\u003e\u003cbr /\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/bf/90/62/bf906210787ca624f213782cd2df3dd6.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/1653752932698836671/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7381549536981004008",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-10-11T16:14:00-07:00",
+   "updated": "2019-10-11T16:15:21-07:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwODM1NzIxNTI1Cm9mZnNldDogLTI1MjAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/10/um-novo-ser-cada-dia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7381549536981004008",
+   "title": "Um novo ser a cada dia.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nCada pessoa que passa em nossa vida é uma nova pessoa, que não deve nunca ser tratada a base de experiências anteriores, senão é você que vai fazer todas as suas relações serem sempre a mesma coisa... se já te traíram, se já te enganaram, se já te decepcionaram... a pessoa que se encontra agora na sua vida não teve e não tem culpa nenhuma do que se passou com você... às vezes é bom apostar em alguém... pode ser que você esteja deixando para trás desta vez o verdadeiro amor da sua vida.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Entidades Ciganas da Umbanda (Clique Aqui) para entrar.: No espaÃ§o -Por Emerson de OssÃ£e\" height=\"400\" src=\"https://i.pinimg.com/564x/76/0d/ea/760dea5102bfb442dfb2b1bc2c557eab.jpg\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/76/0d/ea/760dea5102bfb442dfb2b1bc2c557eab.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7381549536981004008/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "3352832034247843397",
    "blog": {
     "id": "4634552194872670494"
@@ -3218,5 +3280,5 @@
    ]
   }
  ],
- "etag": "\"MjAxOS0xMC0wOFQwMDoyNTozNS4zODBa\""
+ "etag": "\"MjAxOS0xMC0xMlQyMjoxOToxMi45NTVa\""
 }
