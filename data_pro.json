@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "8858910939529296108",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2019-12-30T16:06:00-08:00",
+   "updated": "2019-12-30T16:06:22-08:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc3NzUwNzgyMzcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2019/12/desculpa.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8858910939529296108",
+   "title": "Desculpa",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nOi...hoje eu quero te dizer que não foi fácil lembrar da gente, más eu lembrei. Em pensar que quando compartilhamos momentos não percebemos que estamos na verdade compartilhando histórias que nem o tempo é capaz de apagar, quando me sinto só,recordo-me com as lembranças sobre a gente, poderia-mos até ter dado certo, más eu escolhi me amar antes de dar amor,fica bem.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n#Escrevi\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nVittor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cimg alt=\"Ajude a tornar realidade a sua perda de gordura - aqui estão muitas maneiras que realmente funcionam #perdadegorduradabarriga\" src=\"https://i.pinimg.com/564x/1f/5e/b5/1f5eb5b0b0f66b3e0bd5aac915bd2bda.jpg\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/1f/5e/b5/1f5eb5b0b0f66b3e0bd5aac915bd2bda.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/8858910939529296108/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "3364941901768184301",
    "blog": {
     "id": "4634552194872670494"
@@ -3339,5 +3370,5 @@
    ]
   }
  ],
- "etag": "\"MjAxOS0xMi0yOFQyMTozMjowMS4wNDda\""
+ "etag": "\"MjAxOS0xMi0zMVQwMDowNjoyMi4zNzJa\""
 }
