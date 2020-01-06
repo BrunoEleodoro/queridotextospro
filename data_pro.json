@@ -3,6 +3,99 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "4429946316417065829",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2020-01-05T17:26:00-08:00",
+   "updated": "2020-01-05T17:26:04-08:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc4MjczOTY0NTU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2020/01/sentimentos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4429946316417065829",
+   "title": "Sentimentos",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;\"\u003ePor favor, me diga o que tu sente por mim, me diga se isso é real ou não, me diga se o que tu queres de mim.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nO que está acontecendo aqui?\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nVai saber haha. (Troca de olhares).\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nEle disse que passaria por todo o caos comigo, eu sou o caos e ele disse que seria minha calmaria...ele disse que apesar de surtarmos muito(eu principalmente) ele não me deixaria, ele gostava de mim(eu acreditei nisso).&nbsp;E agora onde está você? Por que eu acreditei que seria diferente com você? Por que você me fez acreditar que seria diferente? Você mentiu, desde o começo.&nbsp;Não finja gostar se você não sente nada de verdade, não diga ser de verdade quando na verdade você está mentindo, não brinque com os sentimentos de alguém...são sentimentos não brinquedos.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003eThalita Kruel\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e#Ex\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cimg alt=\"spooky sums👻 on Instagram: “we are how we treat each other”\" src=\"https://i.pinimg.com/564x/be/b6/a5/beb6a50cb5a531dbbf0b681c46d4459b.jpg\" /\u003e\u003c/span\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/be/b6/a5/beb6a50cb5a531dbbf0b681c46d4459b.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/4429946316417065829/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "674363195188102490",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2020-01-05T17:16:00-08:00",
+   "updated": "2020-01-05T17:19:32-08:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc4MjczNTcyNDM1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2020/01/placidez.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/674363195188102490",
+   "title": "Placidez ",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nHá tempos apetecia-lhe dormir até tarde – aquelas tormentas típicas do universo pós-juvenil haviam invadido-lhe as horas extras de sono que possuía aos fins de semana.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nPreocupações são, por assim dizer, um estilo de vida. E este era o seu estilo, certamente. O seu e o de tantos outros seres que compunham este aglomerado de angustiados. Se ao menos fosse algo peculiar, que ele pudesse chamar de “seu”, o sofrimento teria um pingo de graça. Mas não: quantos escritores de livros de autoajuda já enriqueceram às nossas custas?\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nO quarto frígido contrastava com a calidez lá fora. Por que será que sua casa conservava a temperatura por tanto tempo? A noite foi fria, mas o sol irradiava livremente naquela manhã. Tentou relembrar as aulas de geografia, quando aprendeu que a terra ganha e perde calor rapidamente. Guardava consigo o exemplo dos desertos, que registram altas e baixas temperaturas em curto espaço de tempo. Sua casa deveria seguir a mesma regra. Mas não: pensou que talvez houvesse algum estudo análogo sobre telhas, pisos e azulejos.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nPor tabela, lembrou-se também do professor de geografia. À época, como todo professor que se prezasse, o barrigudo era marxista. Odiava o IBGE, as apostilas do ensino médio e a burguesia. Ficava profundamente insultado quando via comerciais de multinacionais americanas. Mas tinha um Chevrolet, comia cookies e foi obrigado a ver os filhos comemorarem o Halloween.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\nTodos esses pensamentos renderam-lhe um faceiro entorpecimento. Aproveitou para voltar a dormir enquanto a preocupação não acordava.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;;\"\u003eRenan Milaré\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n#Acontecimentos\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\n\u003cimg alt=\" \" src=\"https://i.pinimg.com/564x/3e/15/dc/3e15dc8d5bf64be61f27943ba33f7def.jpg\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/3e/15/dc/3e15dc8d5bf64be61f27943ba33f7def.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/674363195188102490/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7167692844997882797",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2020-01-05T17:11:00-08:00",
+   "updated": "2020-01-05T17:11:59-08:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc4MjczMTE5NjkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2020/01/luta-de-classes.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7167692844997882797",
+   "title": "Luta de classes",
+   "content": "\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\nE sem titubear, chega e escolhe uma mesa.&nbsp;Não escolhe bem assim dizer, pois as outras sete ou oito estão quase que todas ocupadas. Senta-se e pronto, sem maiores delongas. A pizzaria é simples, é a única da cidade. Mas a cidade também é simples, medíocre. E os assentos disponíveis espalhados pela calçada são mais do que suficientes, mesmo quando o vilarejo recebe os intrépidos forasteiros de datas festivas.&nbsp;As mesas atrapalham os pedestres. E quem se importa, quando estes restringem-se a meia dúzia de esguios vira-latas que esbarram em pernas, pés e pés (de mesa). Há sempre (e o sempre aqui não é força de expressão) um carro parado com o porta-malas escancarado para maximizar o barulho proveniente das caixas de som. Atrapalha as conversas, atrapalha os que dormem, atrapalha os cachorros. Mas só incomodar não é pecado. Saber de antemão que há apenas um forno elétrico disponível é ter gastrite antes mesmo de comer. A morosidade do estabelecimento não se traduz em encanto; gera raiva. Um ódio de quem não entende a razão de ser do forno único. Levanta a mão, toma coragem e pede “uma portuguesa para comer aqui”. Uma hora e meia depois, a garçonete menor-aprendiz reaparece para informar: não temos ovos. Pois vai assim mesmo, 'antes que eu desista'. E outra Coca litro porque esta já esquentou. O cliente come. Engole vorazmente. Vai pagar a conta num caixa que não existe. O anúncio de advertência do Ministério da Saúde desvanece e a impressão é de que só restaram aquelas (duvidosas) salsinhas na conserva. Pobre brasiliense. Homem cosmopolita, repleto de poesia e de desventuras. Não percebeu ainda que seu conhecimento de mundo não é uma bússola universal capaz de captar todas as nuances daquela gente. Repare como ele se irrita, mas só um pouco. Acostumou-se. Voltará para o Planalto Central maldizendo o cálido sol do interior paulista e o único forno, saudoso dos fast-food que nem precisam descer do carro para pedir. Lá, onde lugar de criança é na escola e no semáforo, pedindo esmolas no contra turno. Tranquilize-se, amigo. Amanhã tem sempre mais horas que hoje.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003eRenan Milaré\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n#Acontecimentos&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cimg alt=\"Sunset under mid level clouds\" src=\"https://i.pinimg.com/564x/19/72/60/19726073f3191d081bf16abf420ad0cb.jpg\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/19/72/60/19726073f3191d081bf16abf420ad0cb.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/7167692844997882797/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "2039787202838408634",
    "blog": {
     "id": "4634552194872670494"
@@ -3401,5 +3494,5 @@
    ]
   }
  ],
- "etag": "\"MjAyMC0wMS0wM1QwMToxNTo1NC4zMjJa\""
+ "etag": "\"MjAyMC0wMS0wNlQwMToyNjowNC41NTRa\""
 }
