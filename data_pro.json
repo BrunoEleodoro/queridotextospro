@@ -3,6 +3,37 @@
  "items": [
   {
    "kind": "blogger#post",
+   "id": "5475771581925811467",
+   "blog": {
+    "id": "4634552194872670494"
+   },
+   "published": "2020-01-13T17:08:00-08:00",
+   "updated": "2020-01-13T17:08:47-08:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc4OTY0MTI3ODc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+   "url": "http://qwertyuiopqwedfg.blogspot.com/2020/01/so-mais-uma-historia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5475771581925811467",
+   "title": "Só mais uma história",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e&nbsp;Acho que é o fim! Uma parte de mim quer fugir, não quer acreditar que tudo possa simplesmente acabar... Não aceita que tudo tem que acabar. Mas já me convenci que não nasci para amar menos ainda pra ser amada. Você me encheu de esperanças, me deu motivo pra sonhar outra vez... Mas como sempre você também não aguento o meu caos, minha bagunça, minha intensidade , meu medo de perder alguém que foi tão difícil de encontrar!!! Mas tudo bem, eu vou conseguir, eu sempre consigo me reerguer e seguir em frente! Mas a cada vez que preciso fazer isso, uma parte de mim se perde, e um vazio fica no seu lugar, e estou cansada de sempre ter que seguir, me refazer, me reconstruir!!! E fingir que está tudo bem, enquanto por dentro estou despedaçada, e com um vazio enorme que nada preenche!! Mas sou assim sofro calada, mas não demonstro fraqueza.. Orgulhosa de mais pra te procurar e correr atrás...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003eDesconhecida\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e#Acontecimentos\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Lindo papel de parede para celular. Baixe agora! Acesse também o link pra ver mais novidades. #papeldeparede #wallpaper #planodefundo #iphonewallpaper #iphone #cellphone #phone #apple #photo\" height=\"320\" src=\"https://i.pinimg.com/564x/72/35/52/7235525690366792710eb78af5c60e56.jpg\" width=\"180\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/72/35/52/7235525690366792710eb78af5c60e56.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4634552194872670494/posts/5475771581925811467/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
    "id": "2267761033866656864",
    "blog": {
     "id": "4634552194872670494"
@@ -3336,5 +3367,5 @@
    ]
   }
  ],
- "etag": "\"MjAyMC0wMS0wOVQyMTo0MDowMC4xMjFa\""
+ "etag": "\"MjAyMC0wMS0xNFQwMTowODo0Ny44Nzda\""
 }
